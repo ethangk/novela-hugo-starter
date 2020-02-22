@@ -8,8 +8,8 @@ timeToRead = 2
 title = "Test post"
 
 +++
-Something something
+### Something something
+
+#### A code block
 
     Some code...
-    
-    
